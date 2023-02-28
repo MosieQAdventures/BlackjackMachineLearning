@@ -10,11 +10,10 @@
 
 - - -
 
-TODO: Better Description :)
-
-
 tldr: 
 
 Unity and C# to do the GUI one + 250 games/at the time simulations. 
 
 Matlab to do up to 10 000 000 games simulations on top and for machine learning algorythms.
+
+//TODO: Better Description :)
